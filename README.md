@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="lucidOStextgradient" src="https://github.com/user-attachments/assets/db4151f5-9728-458f-b7eb-af88c668fbf2" />
+<img width="1835" height="459" alt="lucidOStextgradient" src="https://github.com/user-attachments/assets/f7da42ae-0af3-4c82-8711-37f09fe0858f" />
 
 # lucidOS – Overview
 
