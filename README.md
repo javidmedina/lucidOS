@@ -1,4 +1,4 @@
-<img width="628" height="628" alt="Concentric Corners" src="https://github.com/user-attachments/assets/b316a272-2a9b-46d6-9a6e-43623c6033bf" />
+<img width="1920" height="1080" alt="lucidOStextgradient" src="https://github.com/user-attachments/assets/db4151f5-9728-458f-b7eb-af88c668fbf2" />
 
 # lucidOS – Overview
 
