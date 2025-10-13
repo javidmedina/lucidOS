@@ -1,3 +1,4 @@
+<img width="3840" height="2160" alt="lucidOSrow" src="https://github.com/user-attachments/assets/82da6d7b-7a59-4105-9a73-eb8e4e22afc7" />
 # lucidOS – Overview
 
 lucidOS is a sleek, Ubuntu-based Linux distribution designed to be the easiest and most user-friendly operating system for both casual and advanced users. With a focus on performance, simplicity, and aesthetics, lucidOS combines the best features of Linux and other operating systems, offering:
