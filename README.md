@@ -38,6 +38,6 @@ As stated, lucidOS has the ability to run Windows Apps via Proton, and that incl
 
 
 
-
+# Future Plans
 Looking ahead, lucidOS will offer exclusive software for music production, video editing, and other professional tasks, while providing seamless compatibility with popular programs like Adobe Photoshop, Pro Tools, and more.
 
