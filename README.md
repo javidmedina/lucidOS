@@ -74,8 +74,8 @@ As stated, lucidOS will have the ability to run Windows Apps via Proton, and tha
 
 
 # Future Plans
-- Replace generic Ubuntu apps with **custom LucidOS applications**  
-- Introduce proprietary tools designed specifically for LucidOS  
-- Maintain compatibility with Ubuntu repositories for package updates
-- Make Windows Apps run flawlessly
-- 
+#### - Replace generic Ubuntu apps with **custom LucidOS applications**  
+#### - Introduce proprietary tools designed specifically for LucidOS  
+#### - Maintain compatibility with Ubuntu repositories for package updates
+#### - Making Windows applications run flawlessly.
+#### - Making Linux mainstream in general.
