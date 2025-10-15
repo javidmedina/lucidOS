@@ -62,11 +62,14 @@ Unique, glossy skeuomorphic icons inspired by macOS Sequoia and Tahoe.
 
 Default wallpapers, branding, and UI elements are proprietary, maintaining the lucidOS identity.
 
+Emphasis on smooth transitions, responsive animations, and visual depth.
+
 Flexible layout options allow users to emulate macOS, Windows, or other styles. 
 
 
 # Gaming
-As stated, lucidOS has the ability to run Windows Apps via Proton, and that includes video games, you can play a good majority of steam games and windows apps in general on lucidOS. More support is always being added.
+As stated, lucidOS will have the ability to run Windows Apps via Proton, and that includes video games. You will be able to play a good majority of Steam games and Windows apps in general on lucidOS. More support will always be added as lucidOS improves more and more.
+(Proton is a compatibility layer developed by Valve)
 
 
 
@@ -74,4 +77,5 @@ As stated, lucidOS has the ability to run Windows Apps via Proton, and that incl
 - Replace generic Ubuntu apps with **custom LucidOS applications**  
 - Introduce proprietary tools designed specifically for LucidOS  
 - Maintain compatibility with Ubuntu repositories for package updates
+- Make Windows Apps run flawlessly
 - 
