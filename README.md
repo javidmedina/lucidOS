@@ -2,7 +2,7 @@
 
 # lucidOS – Release Overview and Future Plans
 
-lucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the ability to easily run both Linux and Windows software. lucidOS offers :
+lucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the ability to run both Linux and Windows software easily. lucidOS offers :
 
 # Dual modes:
 
@@ -15,12 +15,12 @@ Advanced mode for power users, with terminal access and more complex system cont
 ## **AppConfig**
 **AppConfig** is a proprietary LucidOS application designed specifically to improve compatibility with Windows® software through user-created configuration profiles.
 
-Purpose
+### Purpose
 
-AppConfig allows users to **download and apply compatibility configurations** for Windows® programs that do not run correctly on LucidOS via Wine or Proton.  
+AppConfig enables users to **download and apply compatibility configurations** for Windows programs that do not run correctly on LucidOS using Wine or Proton.  
 Each configuration is contributed by the community and tailored for specific applications or versions.
 
-How It Works
+### How It Works
 
 1. A user identifies a Windows® app that does not run properly or at all on LucidOS.  
 2. Another user (or developer) creates a configuration that fixes or optimizes compatibility for that Wapp.  
@@ -28,9 +28,9 @@ How It Works
 4. Other users can **download that configuration** directly from AppConfig.  
 5. Once downloaded, the system automatically applies it — **no manual setup is required.**  
 
-After installation, users can simply open the Windows® application, and it should run correctly with the applied settings.
+After installation, users can open the Windows® application, and it **should** run correctly with the applied settings.
 
-Core Features of AppConfig
+### Core Features of AppConfig
 
 - Browse and download pre-made compatibility configurations.  
 - Automatically integrate downloaded configurations with Wine/Proton layers.  
