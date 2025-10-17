@@ -30,7 +30,7 @@ Each configuration is contributed by the community and tailored for specific app
 
 After installation, users can open the Windows® application, and it **should** run correctly with the applied settings.
 
-### Core Features of AppConfig
+### Core Features of AppConfig (App name still being decided)
 
 - Browse and download pre-made compatibility configurations.  
 - Automatically integrate downloaded configurations with Wine/Proton layers.  
