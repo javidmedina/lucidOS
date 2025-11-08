@@ -1,0 +1,41 @@
+(this section is still being reworked)
+# LucidOS © 2025 Javid Medina
+
+**LucidOS** is a Linux-based operating system derived from **Ubuntu 24.04.3 LTS**, built to explore what’s possible when design and performance meet open-source innovation.
+
+---
+
+## ⚙️ Base System License
+
+LucidOS includes components licensed under the **GNU General Public License (GPL)** and other open-source licenses.
+These components remain under their original terms.
+
+📄 The full text of the GPLv3 can be found at:
+```
+https://www.gnu.org/licenses/gpl-3.0-standalone.html
+```
+
+---
+
+## 🎨 Proprietary Components
+
+All **LucidOS trademarks, branding, wallpapers, icons, select user interface designs, and other visual or audio assets**
+are © 2025 **Javid Medina** and distributed under a **proprietary license**.
+
+You may **not redistribute or modify** these proprietary elements without written permission.
+
+> 🔄 **Note:** LucidOS is an evolving project. Some components — such as the Cutefish dock or other visual assets — may be replaced with new designs created by Javid Medina or community contributors.
+> These changes are part of LucidOS’s mission to **push the limits of what Linux can be.**
+
+---
+
+## 💻 Source Code Availability
+
+Source code for open-source components modified by LucidOS is available at:
+👉 https://github.com/cutefish-ubuntu/dock
+
+---
+
+## 🪄 About
+
+LucidOS is more than a Linux distribution — it’s an experiment in blending open-source freedom with custom design and experience, aiming to create something truly distinct and beautiful in the Linux ecosystem.
