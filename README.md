@@ -12,8 +12,8 @@ Advanced mode for power users, with terminal access and more complex system cont
 
 # Running Windows Applications (lucidOS will include Proton/Wine)
 
-## **AppConfig**
-**AppConfig** is a proprietary LucidOS application designed specifically to improve compatibility with Windows® software through user-created configuration profiles.
+## **AppConfig or LucidOS App**
+**AppConfig/LucidOS App** will be an application designed specifically to improve compatibility with Windows® software and much more.
 
 ### Purpose
 
@@ -30,13 +30,14 @@ Each configuration is contributed by the community and tailored for specific app
 
 After installation, users can open the Windows® application, and it **should** run correctly with the applied settings.
 
-### Core Features of AppConfig (App name still being decided)
+### Core Features of AppConfig/LucidOS App (App name still being decided)
 
 - Browse and download pre-made compatibility configurations.  
 - Automatically integrate downloaded configurations with Wine/Proton layers.  
 - View configuration metadata (author, app version, compatibility notes).  
 - Automatically manage required dependencies or environment variables for each configuration.  
 - No technical setup or manual tweaking required after download.
+- **Possibly could be rebranded to LucidOS App for more features that LucidOS will have.**
 
 
 
@@ -48,27 +49,25 @@ After installation, users can open the Windows® application, and it **should** 
 
 Clean, smooth animations and a modern interface.
 
-Lightweight, fast, and free of unnecessary bloatware.
+Lightweight, fast, and free of unnecessary bloatware, it's your choice for what you want from LucidOS.
 
-A guided setup process with customizable features on first boot.
+A guided setup process with customizable features on first boot that can be changed anytime.
 
-Ability to run Windows apps and select terminal-based macOS apps.
+Ability to run Windows apps and select terminal-based macOS apps, hopefully seamlessly.
 
 
 
 # Interface & Branding:
 
-Unique, glossy skeuomorphic icons inspired by macOS Sequoia and Tahoe.
-
-Default wallpapers, branding, and UI elements are proprietary, maintaining the lucidOS identity.
+Unique, glossy skeuomorphic icons inspired by macOS Sequoia, Tahoe, and the Ubuntu-based CuteFishOS.
 
 Emphasis on smooth transitions, responsive animations, and visual depth.
 
-Flexible layout options allow users to emulate macOS, Windows, or other styles. 
+Flexible layout options will allow users to emulate a macOS, Windows, or other interface of your choice.
 
 
 # Gaming
-As stated, lucidOS will have the ability to run Windows Apps via Proton, and that includes video games. You will be able to play a good majority of Steam games and Windows apps in general on lucidOS. More support will always be added as lucidOS improves more and more.
+As stated, lucidOS will be able to run Windows Apps via Proton, including video games. You will be able to play most Steam games and Windows apps on lucidOS. More support will be added as lucidOS improves.
 (Proton is a compatibility layer developed by Valve)
 
 
@@ -77,5 +76,5 @@ As stated, lucidOS will have the ability to run Windows Apps via Proton, and tha
 #### - Replace generic Ubuntu apps with **custom LucidOS applications**  
 #### - Introduce proprietary tools designed specifically for LucidOS  
 #### - Maintain compatibility with Ubuntu repositories for package updates
-#### - Making Windows applications run flawlessly.
+#### - Making Windows applications and possibly select Mac applications  run flawlessly.
 #### - Making Linux mainstream in general.
