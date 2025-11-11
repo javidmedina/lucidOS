@@ -2,7 +2,7 @@
 
 # lucidOS – Release Goals and Future Plans
 
-lucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the ability to run both Linux and Windows software easily. lucidOS offers :
+LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the ability to run both Linux and Windows software easily. lucidOS offers :
 
 # Dual modes:
 
@@ -63,11 +63,11 @@ Unique, glossy skeuomorphic icons inspired by macOS Sequoia, Tahoe, and the Ubun
 
 Emphasis on smooth transitions, responsive animations, and visual depth.
 
-Flexible layout options will allow users to emulate a macOS, Windows, or other interface of your choice.
+Flexible layout options will allow users to emulate macOS, Windows, or any other interface of their choice.
 
 
 # Gaming
-As stated, lucidOS will be able to run Windows Apps via Proton, including video games. You will be able to play most Steam games and Windows apps on lucidOS. More support will be added as lucidOS improves.
+As stated, lucidOS will be able to run Windows Apps via Proton, including video games. You will be able to play most Steam games and run most Windows applications on lucidOS. More support will be added as lucidOS improves.
 (Proton is a compatibility layer developed by Valve)
 
 
