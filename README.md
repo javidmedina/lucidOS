@@ -16,7 +16,7 @@ LucidOS is planned to target either Ubuntu 24.04.3 LTS or Ubuntu 26.04 LTS as it
 
 
 
-lucidOS offers :
+
 
 # Dual modes:
 
