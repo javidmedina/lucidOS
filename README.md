@@ -2,7 +2,7 @@
 
 # lucidOS – Release Goals and Future Plans
 
-LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the convenience to run Linux, macOS and Windows software all on one operating system. lucidOS offers :
+LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the convenience of running Linux, macOS and Windows software all on one operating system. lucidOS offers :
 
 # Dual modes:
 
