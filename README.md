@@ -15,21 +15,21 @@ LucidOS is planned to target either Ubuntu 24.04.3 LTS or Ubuntu 26.04 LTS as it
 ### Custom desktops and laptops to come with LucidOS | (TBD)
 
 
+# Planned features : 
 
 
-
-# Dual modes:
+## Dual modes:
 
 Basic mode for casual users who want an intuitive, ready-to-go OS.
 
 Advanced mode for power users, with terminal access and more complex system controls.
 
-# Running Windows Applications (lucidOS will include Proton/Wine)
+## Running Windows Applications (lucidOS will include Proton/Wine)
 
-## **AppConfig or LucidOS App**
+### **AppConfig or LucidOS App**
 **AppConfig/LucidOS App** will be an application designed specifically to improve compatibility with Windows® software and much more.
 
-### Purpose
+#### Purpose
 
 AppConfig enables users to **download and apply compatibility configurations** for Windows programs that do not run correctly on LucidOS using Wine or Proton.  
 Each configuration is contributed by the community and tailored for specific applications or versions.
