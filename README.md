@@ -7,10 +7,14 @@ LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user
 # Roadmap
 
 ### Beta Release of LucidOS | (2025 - 2026)
-Based on CuteFishOS which is based on Ubuntu 22.04.5 LTS
+Based on CuteFishOS which is based on Ubuntu 22.04.5 LTS, as time passes certain aspects may be changed. Beta not public yet.
 
-### Release of LucidOS | (2026 - 2027) 
-LucidOS is planned to target either Ubuntu 24.04.3 LTS or Ubuntu 26.04 LTS as its base. The distribution will include the CuteFish desktop environment or, contingent on increased developer participation, a custom LucidOS desktop environment.
+### Release of LucidOS Aurora| (2026 - 2027) 
+LucidOS is planned to target either Ubuntu 24.04.3 LTS or Ubuntu 26.04 LTS as its base. The distribution will probably include the CuteFish desktop environment or, contingent on increased developer participation, a custom LucidOS desktop environment.
+
+### LucidOS 2.0 Nebula (Name not guaranteed) (2027 - 2028 - 2029)
+This version of LucidOS will be guaranteed to be based on Ubuntu 26.04 LTS, potentially being upgraded to being based on Ubuntu 28.04 LTS. It will be much more mature in stability and polish and will probably have its own desktop environment with improved features similar to LucidOS 1.0 Aurora and so much more to be included.
+
 
 ### Custom desktops and laptops to come with LucidOS | (TBD)
 
