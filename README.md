@@ -6,7 +6,7 @@ LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user
 
 # Roadmap
 
-### Beta Release of LucidOS | (2025 - 2026)
+### Beta Release of LucidOS | (2026)
 Based on CuteFishOS which is based on Ubuntu 22.04.5 LTS, as time passes certain aspects may be changed. Beta not public yet.
 
 ### Release of LucidOS Aurora| (2026 - 2027) 
