@@ -2,18 +2,18 @@
 
 # lucidOS – Release Goals and Future Plans
 
-LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS and CuteFishOS, it combines macOS’s smooth experience with the convenience of running Linux, macOS and Windows software all on one operating system. 
+LucidOS is a sleek, Ubuntu-based Linux distribution designed to be the most user-friendly operating system for both casual and advanced users. Inspired by macOS, CuteFishOS, and Frutiger Aero, it combines macOS’s smooth experience with the convenience of running Linux, macOS, and Windows software all on one operating system. 
 
 # Roadmap
 
 ### Beta Release of LucidOS | (2026)
-Based on CuteFishOS which is based on Ubuntu 22.04.5 LTS, as time passes certain aspects may be changed. Beta not public yet.
+Based on CuteFishOS, which is based on Ubuntu 22.04.5 LTS, as time passes, certain aspects may be changed. Beta is not public yet.
 
 ### Release of LucidOS Aurora| (2026 - 2027) 
 LucidOS is planned to target either Ubuntu 24.04.3 LTS or Ubuntu 26.04 LTS as its base. The distribution will probably include the CuteFish desktop environment or, contingent on increased developer participation, a custom LucidOS desktop environment.
 
-### LucidOS 2.0 Nebula (Name not guaranteed) (2027 - 2028 - 2029)
-This version of LucidOS will be guaranteed to be based on Ubuntu 26.04 LTS, potentially being upgraded to being based on Ubuntu 28.04 LTS. It will be much more mature in stability and polish and will probably have its own desktop environment with improved features similar to LucidOS 1.0 Aurora and so much more to be included.
+### LucidOS 2.0 Nebula (Name not guaranteed) (2028 - 2029)
+This version of LucidOS will be guaranteed to be based on Ubuntu 26.04 LTS, potentially being upgraded to being based on Ubuntu 28.04 LTS. It will be much more mature in stability and polish, and will probably have its own desktop environment with improved features similar to LucidOS 1.0 Aurora, and so much more to be included.
 
 
 ### Custom desktops and laptops to come with LucidOS | (TBD)
@@ -77,15 +77,15 @@ Ability to run Windows apps and select terminal-based macOS apps, hopefully seam
 
 # Interface & Branding:
 
-Unique, glossy skeuomorphic icons inspired by macOS Sequoia, Tahoe, and the Ubuntu-based CuteFishOS.
+Unique, glossy skeuomorphic icons inspired by macOS Sequoia, Tahoe, and the Ubuntu-based CuteFishOS, with a pinch of Frutiger Aero.
 
 Emphasis on smooth transitions, responsive animations, and visual depth.
 
 Flexible layout options will allow users to emulate macOS, Windows, or any other interface of their choice.
 
 
-# Gaming
-As stated, lucidOS will be able to run Windows Apps via Proton, including video games. You will be able to play most Steam games and run most Windows applications on lucidOS. More support will be added as lucidOS improves.
+# Gaming (Still being worked on)
+As stated, lucidOS will be able to run Windows Apps via Proton or Wine, including video games. You will be able to play most Steam games and run most Windows applications on lucidOS. More support will be added as lucidOS improves.
 (Proton is a compatibility layer developed by Valve)
 
 
@@ -95,4 +95,4 @@ As stated, lucidOS will be able to run Windows Apps via Proton, including video 
 #### - Introduce proprietary tools designed specifically for LucidOS  
 #### - Maintain compatibility with Ubuntu repositories for package updates
 #### - Making Windows applications and possibly select Mac applications  run flawlessly.
-#### - Making Linux mainstream in general.
+#### - Making Linux mainstream in general. (Impossible)
