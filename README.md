@@ -28,17 +28,17 @@ Basic mode for casual users who want an intuitive, ready-to-go OS.
 
 Advanced mode for power users, with terminal access and more complex system controls.
 
-## Running Windows Applications (lucidOS will include Proton/Wine)
+## Running Windows Applications (lucidOS will include Proton-GE/Wine)
 
-### **AppConfig or LucidOS App**
+### **AppConfig or LucidOS App** (Needs to be revised)
 **AppConfig/LucidOS App** will be an application designed specifically to improve compatibility with Windows® software and much more.
 
-#### Purpose
+###### Purpose
 
 AppConfig enables users to **download and apply compatibility configurations** for Windows programs that do not run correctly on LucidOS using Wine or Proton.  
 Each configuration is contributed by the community and tailored for specific applications or versions.
 
-### How It Works
+###### How It Works
 
 1. A user identifies a Windows® app that does not run properly or at all on LucidOS.  
 2. Another user (or developer) creates a configuration that fixes or optimizes compatibility for that Wapp.  
@@ -48,7 +48,7 @@ Each configuration is contributed by the community and tailored for specific app
 
 After installation, users can open the Windows® application, and it **should** run correctly with the applied settings.
 
-### Core Features of AppConfig/LucidOS App (App name still being decided)
+###### Core Features of AppConfig/LucidOS App (App name still being decided)
 
 - Browse and download pre-made compatibility configurations.  
 - Automatically integrate downloaded configurations with Wine/Proton layers.  
