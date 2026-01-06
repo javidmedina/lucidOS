@@ -30,32 +30,9 @@ Advanced mode for power users, with terminal access and more complex system cont
 
 ## Running Windows Applications (lucidOS will include Proton-GE/Wine)
 
-### **AppConfig or LucidOS App** (Needs to be revised)
-**AppConfig/LucidOS App** will be an application designed specifically to improve compatibility with Windows® software and much more.
+### **LucidOS App/LucidOS Store** (Description needs to be revised/updated)
+Description coming soon
 
-###### Purpose
-
-AppConfig enables users to **download and apply compatibility configurations** for Windows programs that do not run correctly on LucidOS using Wine or Proton.  
-Each configuration is contributed by the community and tailored for specific applications or versions.
-
-###### How It Works
-
-1. A user identifies a Windows® app that does not run properly or at all on LucidOS.  
-2. Another user (or developer) creates a configuration that fixes or optimizes compatibility for that Wapp.  
-3. The configuration is uploaded and made available through AppConfig.  
-4. Other users can **download that configuration** directly from AppConfig.  
-5. Once downloaded, the system automatically applies it — **no manual setup is required.**  
-
-After installation, users can open the Windows® application, and it **should** run correctly with the applied settings.
-
-###### Core Features of AppConfig/LucidOS App (App name still being decided)
-
-- Browse and download pre-made compatibility configurations.  
-- Automatically integrate downloaded configurations with Wine/Proton layers.  
-- View configuration metadata (author, app version, compatibility notes).  
-- Automatically manage required dependencies or environment variables for each configuration.  
-- No technical setup or manual tweaking required after download.
-- **Possibly could be rebranded to LucidOS App for more features that LucidOS will have.**
 
 
 
@@ -85,14 +62,13 @@ Flexible layout options will allow users to emulate macOS, Windows, or any other
 
 
 # Gaming (Still being worked on)
-As stated, lucidOS will be able to run Windows Apps via Proton or Wine, including video games. You will be able to play most Steam games and run most Windows applications on lucidOS. More support will be added as lucidOS improves.
-(Proton is a compatibility layer developed by Valve)
+As stated, lucidOS will be able to run Windows Apps via Proton-GE, including video games. You will be able to play most Steam games and run most Windows applications on lucidOS with Proton-GE being the compatibility layer. More support will be added as lucidOS improves.
+(Proton is a compatibility layer developed by Valve, while Proton-GE is a custom configuration of Proton)
 
 
 
-# Future Plans
-#### - Replace generic Ubuntu apps with **custom LucidOS applications**  
+# Future Plans (Still being refined at this moment, outdated)
 #### - Introduce proprietary tools designed specifically for LucidOS  
 #### - Maintain compatibility with Ubuntu repositories for package updates
-#### - Making Windows applications and possibly select Mac applications  run flawlessly.
+#### - Making Windows applications and possibly select Mac applications run flawlessly. (May not be possible)
 #### - Making Linux mainstream in general. (Impossible)
